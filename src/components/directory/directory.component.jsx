@@ -17,13 +17,13 @@ class Directory extends React.Component {
               linkUrl: 'shop/hats'
             },
             {
-              title: 'concious clarity',
+              title: 'BUGNA STUDIOS OOTD',
               imageUrl: 'https://www.linkpicture.com/q/43DCD1AD-0668-4B8F-A073-3E911EB04A0A.jpeg',
               id: 2,
               linkUrl: 'shop/jackets'
             },
             {
-              title: 'coming soon',
+              title: 'concious clarity',
               imageUrl: 'https://www.linkpicture.com/q/IMG_5573.jpeg',
               id: 3,
               linkUrl: 'shop/sneakers'
